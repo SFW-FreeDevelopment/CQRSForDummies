@@ -1,0 +1,11 @@
+﻿global using AutoMapper;
+global using CFD.API.Database;
+global using CFD.API.Extensions;
+global using CFD.API.Requests.Albums;
+global using CFD.API.Requests.Artists;
+global using CFD.API.Requests.Songs;
+global using CFD.Models;
+global using CFD.Models.DTO;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Collections;
